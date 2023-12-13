@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Top 100 Albums</string>
+    <string name="album_link_button">Visit The Album</string>
+    <string name="release">Released</string>
+    <string name="copyright">apple_copyright</string>
+    <string name="reconnect">RECONNECT</string>
+    <string name="copyrightDefault">Copyright Apple Inc. All rights reserved.</string>
+    <string name="noConnection">No Connection.\nPlease reconnect and try again.</string>
+</resources>
